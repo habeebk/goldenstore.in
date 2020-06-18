@@ -1,0 +1,18 @@
+e0e0e0
+
+
+.btn-danger {
+    background: #ec4848;
+}
+
+
+COLOURS
+==========
+
+Light violet: #7e0488
+Logo Violet: #3d0242
+Logo Gold: #ae964f
+location gold: #c0ac72
+Light Gold: #d5c828
+
+location red: ec4848
